@@ -1,2 +1,1 @@
-# COM8-25021724
-cs1
+# bai tap lab01
